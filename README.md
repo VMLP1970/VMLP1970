@@ -15,6 +15,7 @@ Bienvenido a mi perfil de GitHub, donde la tecnología y la creatividad se encue
 - 🌱 Explorando el vasto universo de la **IA** y el **Machine Learning**.
 - 💞️ Abierto a colaboraciones en proyectos disruptivos.
 - 📫 Encuéntrame en [vmlp1970.com](http://vmlp1970.com)
+- 🚀 Emprendimiento: Comercial o de Negocios; Social; Corporativo; Público o Gubernamental; Cultural y Creativo; Tecnológico; ONG.
 - ⚡ Dato curioso: A pesar de mi dislexia, he encontrado formas únicas de aprender y trabajar.
 
 ## Proyectos Destacados
