@@ -9,7 +9,9 @@ Bienvenido a mi perfil de GitHub, donde la tecnología y la creatividad se encue
 ![Innovation](https://img.shields.io/badge/-Innovation-lightgrey?style=for-the-badge&logo=appveyor)
 ![AI_ML](https://img.shields.io/badge/-AI%20%26%20ML-red?style=for-the-badge&logo=appveyor)
 ![Web_Dev](https://img.shields.io/badge/-Web%20Development-yellowgreen?style=for-the-badge&logo=appveyor)
-![Patents](https://img.shields.io/badge/-Patents-orange?style=for-the-badge&logo=appveyor)
+<a href="https://www.wipo.int/" target="_blank">
+    ![Boletín IA de Patentes Europeas](https://img.shields.io/badge/-Bolet%C3%ADn%20IA%20de%20Patentes%20Europeas-orange?style=for-the-badge&logo=appveyor)
+</a>
 
 ## Un Poco Sobre Mí
 - 🌱 Explorando el vasto universo de la **IA** y el **Machine Learning**.
